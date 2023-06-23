@@ -35,7 +35,7 @@ spec:
           seccompProfile:
             type: RuntimeDefault
         command: ["/bin/sh", "-c"]
-        args: ["echo 'Going to allocate 100MB of memory!'; stress --vm 2 --vm-bytes 30M --vm-hang 120 --backoff 10000000 --verbose"]
+        args: ["echo 'Going to allocate 100MB of memory!'; stress --vm 1 --vm-bytes 30M --vm-hang 120 --backoff 10000000 --verbose"]
         # Ensure Limits are Set
         resources:
           requests:
