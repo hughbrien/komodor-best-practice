@@ -2,7 +2,7 @@
 
 ## Simple Service 
 Simple project for demonstrating Komodor [Best Practices](https://docs.komodor.com/Learn/Static-Prevention.html#how-it-works) 
-Deploy.  See the Changes that demonstrate the different between a Kubernetes Deployment and Significantly Improved Kubernetes Deployment
+Deploy.  See Changes that demonstrate the different between a Kubernetes Deployment and Significantly Improved Kubernetes Deployment
 
 Run the Shipping Service deployment manifest
 Review the Best Practices Score
