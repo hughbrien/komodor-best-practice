@@ -1,4 +1,4 @@
-# Best Practices Demonstration for  Komdor
+# Best Practices Demonstration for  Komodor
 
 ## Simple Service 
 Simple project for demonstrating Komodor [Best Practices](https://docs.komodor.com/Learn/Static-Prevention.html#how-it-works) 
