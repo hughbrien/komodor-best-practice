@@ -2,6 +2,15 @@ apiVersion: apps/v1
 kind: Deployment
 metadata:
   name: shipping-service
+  annotations:
+    app.komodor.com/service.link.github: https://github.com/hughbrien/komodor-best-practice
+    app.komodor.com/deploy.link.github: https://github.com/hughbrien/komodor-best-practice
+    app.komodor.com/deploy.link.latestchange: https://github.com/hughbrien/komodor-best-practice/commit/78b35cc0e2e245dfd573d5f8442d6158e50ed66e
+    app.komodor.com/tracked_files: |
+      *.yaml
+    app.komodor.com/app: https://github.com/hughbrien/komodor-best-practice
+    app.komodor.com/app.ref: 78b35cc0e2e245dfd573d5f8442d6158e50ed66e
+
   labels:
     app: shipping-service
     project: improve-service
