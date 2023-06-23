@@ -1,9 +1,4 @@
-# komodor-best-practice
-Best Practices for Komdor
-
-
-
-# Service Improvement Best Practices 
+# Best Practices Demonstration for  Komdor
 
 ## Simple Service 
 Simple project for demonstrating Komodor [Best Practices](https://docs.komodor.com/Learn/Static-Prevention.html#how-it-works) 
