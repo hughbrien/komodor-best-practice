@@ -14,6 +14,8 @@ metadata:
   labels:
     app: shipping-service
     project: improve-service
+    cluster: hpbx-mac-cluster
+
 
 spec:
   #Added Two Replicas
