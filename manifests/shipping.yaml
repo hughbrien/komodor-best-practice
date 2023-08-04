@@ -15,7 +15,7 @@ metadata:
     project: improve-service
 
 spec:
-  replicas: 1
+  replicas: 3
   selector:
     matchLabels:
       app: shipping-service
